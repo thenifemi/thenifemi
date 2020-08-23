@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/thenifemi/thenifemi/master/Nifemi_header.png "Header")](https://www.linkedin.com/in/nifemii)
+[![Header](https://raw.githubusercontent.com/thenifemi/thenifemi/master/Nifemi-header.png "Header")](https://www.linkedin.com/in/nifemii)
 
 # Greetings, mortals! <img src="https://raw.githubusercontent.com/thenifemi/thenifemi/master/wave.gif" width="30px">
 
