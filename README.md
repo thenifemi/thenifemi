@@ -1,5 +1,11 @@
 [![Header](https://raw.githubusercontent.com/thenifemi/thenifemi/master/Nifemi_header.png "Header")](https://www.linkedin.com/in/nifemii)
 
+# Olá, mortals! <img src="https://raw.githubusercontent.com/thenifemi/thenifemi/master/wave.gif" width="30px">
+
+
+
+
+
 <!--
 **thenifemi/thenifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
