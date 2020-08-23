@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/thenifemi/thenifemi/master/Nifemi_header.png "Header")](https://www.linkedin.com/in/nifemii)
 
 <!--
 **thenifemi/thenifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
