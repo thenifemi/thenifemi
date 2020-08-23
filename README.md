@@ -2,7 +2,7 @@
 
 # Olá, mortals! <img src="https://raw.githubusercontent.com/thenifemi/thenifemi/master/wave.gif" width="30px">
 
-Heyo! My name is Nifemi Omotosho-Diffu. I am a Mobile Developer from Nairobi, living in Blumenau, SC and currently working independently. Working with Dart, Kotlin, Flutter, Firebase and Java. You can find me on [![Twitter][1.2]](https://www.linkedin.com/in/nifemii), or on [(https://raw.githubusercontent.com/thenifemi/thenifemi/master/linkedin-3-16.png)](https://www.linkedin.com/in/nifemii).
+Heyo! My name is Nifemi Omotosho-Diffu. I am a Mobile Developer from Nairobi, living in Blumenau, SC and currently working independently. Working with Dart, Kotlin, Flutter, Firebase and Java. You can find me on [![Twitter][1.2]](https://www.linkedin.com/in/nifemii), or on [![LinkedIn](https://raw.githubusercontent.com/thenifemi/thenifemi/master/linkedin-3-16.png)](https://www.linkedin.com/in/nifemii).
 
 <!--
 **thenifemi/thenifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
