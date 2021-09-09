@@ -2,7 +2,7 @@
 
 ### Greetings, mortals!
 
-Nifemi here! Software Engineer, living in Blumenau, SC and currently working at Fetchly Labs, Denver, Colorado. I work with Dart, Kotlin, Flutter, Firebase and Java to build Mobile Apps for Android and iOS. Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
+Nifemi here! Software Engineer, living in Blumenau, SC and currently working at Fetchly Labs, Denver, Colorado. I work with Dart, Kotlin, Flutter, React Firebase and Java to build Mobile Apps for Android and iOS. Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
 
 Find my resume [here](https://github.com/thenifemi/thenifemi/blob/master/Nifemi-Diffu-Resume-2021.pdf).
 
