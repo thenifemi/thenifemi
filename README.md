@@ -1,8 +1,10 @@
-![Header](https://raw.githubusercontent.com/thenifemi/thenifemi/master/nifemi-banner.png "Header")
+<!-- ![Header](https://raw.githubusercontent.com/thenifemi/thenifemi/master/nifemi-banner.png "Header") -->
 
 ### Greetings, mortals!
 
-Nifemi here! Software Engineer, living in the south of South America and currently working at Fetchly Labs, Denver, Colorado. I work with Dart, Kotlin, Flutter, React, Firebase and Java to build Mobile Apps for Android and iOS. Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
+Nifemi here! Software Engineer. I maintain a healthy balance between design, functionality and clean code.
+
+Living in the south of South America and currently working at Fetchly Labs, Denver, Colorado. I work with Dart, Kotlin, Flutter, React, Firebase and Java to build Mobile Apps for Android and iOS. Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
 
 <!-- Find my resume [here](https://github.com/thenifemi/thenifemi/blob/master/Nifemi-Diffu-Resume-2021.pdf). -->
 
