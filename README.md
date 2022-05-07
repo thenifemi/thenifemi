@@ -14,4 +14,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
 
 For Contracts, Freelance, Jobs or other Paid opportunities, please reach out to me on thenifemi@gmail.com.
 
-[thenifemi.com 🚀](thenifemi.com)
+[thenifemi.com 🚀](https://www.thenifemi.com)
