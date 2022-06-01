@@ -4,7 +4,7 @@
 
 Nifemi here! Software Engineer. I maintain a healthy balance between design, functionality and clean code.
 
-Digital nomad currently working at Fetchly Labs, Denver, Colorado. I work with Dart for Flutter, Kotlin for Native Android, Typescript for React, Javascript for React Native, Ruby On Rails, Firebase and Java. 
+Digital nomad currently working at Fetchly Labs, Denver, Colorado. I work with Dart for Flutter, Kotlin for Native Android, Typescript for React, Javascript for React Native, Ruby On Rails, Firebase and Java(against my will). 
 
 Love to build Mobile Apps for Android and iOS. 
 
