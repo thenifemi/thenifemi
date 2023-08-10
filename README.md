@@ -4,7 +4,7 @@
 
 Nifemi here! Software Engineer, Amateur Swimmer and Cyclist. I maintain a healthy balance between design, functionality and clean code.
 
-Digital nomad currently working at ArcTouch, San Francisco as a Senior Software Engineer on the Flutter, iOS and Android team. 
+Digital nomad currently working at ArcTouch, San Francisco as a Senior Software Engineer on the Cross-Platform team. 
 
 I love to build Mobile Apps for iOS and Android. 
 
