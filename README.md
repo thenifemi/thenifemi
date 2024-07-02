@@ -12,4 +12,3 @@ For Contracts, Freelance, Jobs or other Paid opportunities, don't hesitate to co
 
 [thenifemi.com 🚀](https://www.thenifemi.com)
 
-[![](https://visitcount.itsvg.in/api?id=thenifemi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
