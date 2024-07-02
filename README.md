@@ -11,3 +11,5 @@ Read some of the stuff I have written on Software Engineering on my [blog](https
 For Contracts, Freelance, Jobs or other Paid opportunities, don't hesitate to contact me at thenifemi@gmail.com.
 
 [thenifemi.com 🚀](https://www.thenifemi.com)
+
+[![](https://visitcount.itsvg.in/api?id=thenifemi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
