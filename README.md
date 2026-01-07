@@ -2,7 +2,7 @@
 
 ### Greetings, mortals!
 
-Nifemi here! Software Engineer, Amateur Swimmer and Cyclist. I maintain a healthy balance between design, functionality and clean code.
+Nifemi here! Product Driven Software Architect & Engineer, Amateur Swimmer and Cyclist. I maintain a healthy balance between design, functionality and clean code.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
 
