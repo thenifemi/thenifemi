@@ -6,7 +6,7 @@ Nifemi here! Product Driven Software Architect & Engineer, Amateur Swimmer and C
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nifemii).
 
-Read some of the stuff I have written on Software Engineering on my [blog](https://www.thenifemi.com/articles)
+Read some of the stuff I have written on Software Engineering on my [blog](https://www.thenifemi.com/blog)
 
 For Contracts, Freelance, Jobs or other Paid opportunities, don't hesitate to contact me at thenifemi@gmail.com.
 
